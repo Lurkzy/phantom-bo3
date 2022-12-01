@@ -17,3 +17,7 @@ scriptparsetree,scripts\mp\gametypes\components\_menu.gsc
 scriptparsetree,scripts\mp\gametypes\components\_aimbot.gsc
 scriptparsetree,scripts\shared\_oob.gsc
 scriptparsetree,scripts\shared\_oob.csc
+
+rawfile,ui\uieditor\menus\hud\main.lua
+rawfile,ui\util\T7Overcharged.lua
+rawfile,ui\util\T7OverchargedUtil.lua

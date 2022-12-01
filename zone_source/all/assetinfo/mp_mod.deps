@@ -38,13 +38,10 @@ scriptparsetree,scripts\shared\_oob.csc
 	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\clientfields.gsh,1664943106,
 	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1664944781,
 	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1664944781,
-rawfile,ui\uieditor\menus\hud\main.lua
-rawfile,ui/util/t7overcharged.lua
-rawfile,ui/util/t7overchargedutil.lua
 texturecombo,mp_mod
 assetlist,mp_mod
 	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1664942987,
-	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\phantom\zone_source\mp_mod.zone,1668821010,4f161e2c,ae11b304,5a04cad4,a5633774
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\phantom\zone_source\mp_mod.zone,1669853445,00c6134e,c7e3676b,bcf13045,d80c9a9a
 	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\mp_mod.class,1664944784,
 	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\mod_default.class,1664943166,
 	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\default.class,1664943166,
